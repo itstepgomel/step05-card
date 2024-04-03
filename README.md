@@ -5,13 +5,13 @@
 - Сама карточка абсолютно спозиционирована 50% от верха и 50% от левого края + выполнено смещение на -50% от ширины и высоты самой карточки transform: translate(-50%, -50%);
 - познакомились с генераторами изображений (см. интеллект-карту https://goo.su/front ветка Изображения)
 - сформировали кнопку из тега а - добавили в кнопку:
-  -- display: inline-block;
-  -- border: 2px solid #ccc;
-  -- text-transform: uppercase;
-  -- letter-spacing: 5px;
-  -- border-radius: 10px;
-  -- transition: 0.8s;
-  -- воспользовались свойством .btnCard:hover (свойства при наведении курсора мышки на блок)
+  - display: inline-block;
+  - border: 2px solid #ccc;
+  - text-transform: uppercase;
+  - letter-spacing: 5px;
+  - border-radius: 10px;
+  - transition: 0.8s;
+  - воспользовались свойством .btnCard:hover (свойства при наведении курсора мышки на блок)
 - ограничили проект одним экраном (html{height: 100%;} body{height: 100%;})
 
 
